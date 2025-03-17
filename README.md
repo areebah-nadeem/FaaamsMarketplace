@@ -2,8 +2,6 @@
 
 **Faaams Market** is a full-stack e-commerce web application that empowers users to create their own shops, add products, and sell online. Designed with a clean user experience and a focus on security, it offers a responsive shopping platform built with the MERN stack.
 
-![Faaams Home Page](./image.png)
-
 ## 🚀 Tech Stack
 
 - **Frontend**: React, Bootstrap  
